@@ -7,7 +7,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 
 #   ORDINARE UNA PIZZA
 
-- Guarda la pizzeri preferita
+- Guardo la pizzeria preferita
     - SE Aperta
         - SE hanno la pizza prosciutto e funghi
         - ordina
@@ -19,10 +19,10 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
                 - SE hanno la prosciutto e funghi
                     - Chiamo
                     -Ordino
-                -SE sono passate due ore
-                        -Scelgo un altra pizza
-                            -Chiamo
-                            - Ordino 
+        -SE sono passate due ore
+            -Scelgo un altra pizza
+                -Chiamo
+                - Ordino 
 - Quando Arriva
     - SE  bollente
         - Aspetto che si raffredi
@@ -32,13 +32,13 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
         - Mi lamento 
             - Chiedo la sostituzione  
 
-     -ALTRIMENTI SE tiepida
+     -Quando tiepida
         - La taglio a fette
         - FINTANTO che non sono sazio
             -Mangio una fetta
-            - SE avanza
-                - La lascio nel cartone della pizza
-                - Metto il cartone in frigo
-            - ALTRIMENTI 
-                - Butto via il cartone  
+        - SE avanza
+            - La lascio nel cartone della pizza
+            - Metto il cartone in frigo
+        - ALTRIMENTI 
+            - Butto via il cartone  
     
